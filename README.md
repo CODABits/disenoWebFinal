@@ -18,6 +18,9 @@ Electiva de didáctica digital, cuya meta fue la creación de una estructura web
 ### Proyecto final 🚀
 - 🌏La presente página como entrega final del proyecto 
 
+### Pendientes 🚀
+- 🌏Desjustificar p.textoInicial
+
 
 
 
