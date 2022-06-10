@@ -2,7 +2,6 @@
 Electiva de didáctica digital, cuya meta fue la creación de una estructura web.
 
 
-
 ### Trabajos en Clase 🚀
 
 - 🤹‍♀️https://23-18-09-mayo-2022.glitch.me/
@@ -19,7 +18,15 @@ Electiva de didáctica digital, cuya meta fue la creación de una estructura web
 - 🌏La presente página como entrega final del proyecto 
 
 ### Pendientes 🚀
-- 🌏Desjustificar p.textoInicial
+- 🌏Desjustificar p.textoInicial (Resuelto)
+- 🌏Modificar etiqueta <center> obsoleta
+- 🌏Acecsibilidad = Es las páginas nuevas, comentar las animaciones y código (Alt) y tener presente algunos constrastes
+- 🌏Las animaciones son unos ejemplos para estrctura, la idea es personalizarlas.
+- 🌏Las card hay posibilidad de usar outer/inner 
+- 🌏Las animaciones son unos ejemplos para estructura, la idea es personalizarlas.( cambiar los Alt por los nuevos)
+- 🌏Generar algunos videos introductorios e usar como popups
+- 🌏En general, el código necesita se organizado, comentado y limpiado. En especial, las replicas del index
+
 
 
 
