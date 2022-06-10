@@ -23,10 +23,10 @@ Electiva de didáctica digital, cuya meta fue la creación de una estructura web
 - 🌏Accesibilidad = Es las páginas nuevas, comentar las animaciones y código (Alt) y tener presente algunos constrastes
 - 🌏Las animaciones son unos ejemplos para estructura, la idea es personalizarlas o reemplazarlas
 - 🌏Las card hay posibilidad de usar outer/inner en los bordes para darle más resalte
-- 🌏Las animaciones son unos ejemplos para estructura, la idea es personalizarlas.( cambiar los Alt por los nuevos)
+- 🌏Las animaciones son unos ejemplos para estructura, la idea es personalizarlas con contenidos temáticos.(cambiar los Alt por los nuevos)
 - 🌏Generar algunos videos introductorios e usar como popups
 - 🌏Interesante desarrollar concepto de proyecto 1, cuyo diseño es más actualizado UX/UI
-- 🌏En general, el código necesita se organizado, comentado y limpiado. En especial, las replicas del index
+- 🌏En general, el código necesita ser organizado, comentado y limpiado. En especial, las replicas del index
 
 
 
