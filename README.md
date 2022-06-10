@@ -19,7 +19,7 @@ Electiva de didáctica digital, cuya meta fue la creación de una estructura web
 
 ### Pendientes 🚀
 - 🌏Desjustificar p.textoInicial (Resuelto)
-- 🌏Modificar etiqueta <center> obsoleta, pasarla al CSS. Asímismo, algunas style usados dentro del HTML
+- 🌏Modificar etiqueta center obsoleta, pasarla al CSS. Asímismo, algunas style usados dentro del HTML
 - 🌏Acecsibilidad = Es las páginas nuevas, comentar las animaciones y código (Alt) y tener presente algunos constrastes
 - 🌏Las animaciones son unos ejemplos para estrctura, la idea es personalizarlas.
 - 🌏Las card hay posibilidad de usar outer/inner 
